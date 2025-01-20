@@ -1,4 +1,4 @@
-![Header Image](profile-photo.jpg)
+![Header Image](profile.jpg)
 
 # Hi there, I'm Alireza Shirzadi! 
 
