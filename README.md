@@ -26,7 +26,6 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** from Kasha
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Alireza%20Shirzadi-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-shirzadi/)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-%40shirzadi__alireza-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shirzadi_alireza)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-AlirezaShirzadi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlirezaShirzadi)
-[![X (Twitter) Badge](https://img.shields.io/badge/X-%40lilKouri-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/lilKouri)
 
 ---
 
