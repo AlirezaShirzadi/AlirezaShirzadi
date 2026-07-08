@@ -2,17 +2,18 @@
 
 # Hi there, I'm Alireza Shirzadi! 
 
-Welcome to my GitHub profile! I'm a passionate **Frontend Developer** from Kashan, Iran, with a Master's degree in Computer Engineering and nearly 3 years of hands-on experience in designing and building intuitive and scalable web applications. 
+Welcome to my GitHub profile! I'm a passionate **Frontend Engineer** from Kashan, Iran, with a Master's degree in Computer Engineering and nearly 3 years of hands-on experience in designing and building intuitive and scalable web applications. 
 
 ---
 
 ## 🚀 About Me
 
-- 🌟 **Current Role:** Frontend Engineer at Novin System Company, contributing to innovative products like LIMS, Novin Estate, and Novin Payment.
+- 🌟 **Current Role:** Frontend Team Lead at Zaman Pardaz Company, managing technical side of main ERP project.
 - 🎓 **Education:** Bachelor's degree in Computer Engineering from Kashan University.
 - 🧑‍🏫 **Experience:** Former Compiler Design Teaching Assistant at Kashan University.
 - 🌟 **Soft Skills:** Self-confidence, teamwork, humor, and a passionate approach to every project.
 - 🖥️ **Portfolio Highlights:**
+  - Leading Zaman Pardaz ERP project technical and team.
   - Developed a Real Estate Management App (Novin Estate) using **Next.js**.
   - Built an Online Class Management Platform (LIMS Class).
   - Built an Online Quiz Application (Novin Quiz).
